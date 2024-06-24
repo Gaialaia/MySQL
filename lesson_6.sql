@@ -30,8 +30,3 @@ DELIMITER ;
 
 
 SELECT cts(123456);
-
-
-
-DECLARE @digit INT;
-
